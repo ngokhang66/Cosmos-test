@@ -10,7 +10,7 @@
 
 **RPC:** https://rpc0g.aznope.com/
 
-**Snapshot:** 
+**Snapshot:** https://github.com/ngokhang66/Cosmos-test/blob/main/0G-chain/snapshot.md
 
 **Faucet 0G:** [https://faucet.0g.ai/](https://faucet.0g.ai/)
 
@@ -155,7 +155,7 @@ sudo journalctl -u 0gd -f --no-hostname -o cat
 --amount=1000000ua0gi \
 --pubkey=$(0gchaind tendermint show-validator) \
 --moniker=$NODE_NAME \
---chain-id=zgtendermint_16600-1\
+--chain-id=zgtendermint_16600-1 \
 --commission-rate=0.10 \
 --commission-max-rate=0.20 \
 --commission-max-change-rate=0.05 \
