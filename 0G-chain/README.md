@@ -27,6 +27,8 @@ sudo rm -rf /usr/local/go
 sudo rm /etc/paths.d/go
 sudo apt-get remove golang-go
 sudo apt-get remove --auto-remove golang-go
+cd $HOME
+rm -rf /go
 ```
 - Install
 ```
