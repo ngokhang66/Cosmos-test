@@ -1,5 +1,5 @@
-## 0G Chain
-|     Hardward    |   CPU   |  RAM  |  Storage  |  NETWORK | Port |
+ ## 0G Chain | Animu | AZNOPE.COM
+|     Hardware   |   CPU   |  RAM  |  Storage  |  NETWORK | Port |
 |-----------------|---------|-------|-----------|----------|------|
 |    Requirement  | 8 cores | 64 GB | 1 TB NVME | 100 MBps |  321 |
 
