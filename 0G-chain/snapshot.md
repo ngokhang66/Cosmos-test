@@ -13,7 +13,7 @@ rm -rf $HOME/.0gchain/data
 ```
 2. Download latest snapshot
 ```bash
-curl -L https://snap0g.aznope.com/downloads/0gchain.tar.lz4 | tar -Ilz4 -xf - -C $HOME/.0gchain
+curl -L https://snap.aznope.com/downloads/0gchain.tar.lz4 | tar -Ilz4 -xf - -C $HOME/.0gchain
 mv $HOME/.0gchain/priv_validator_state.json.backup $HOME/.0gchain/data/priv_validator_state.json
 ```
 3. Restart the service and check the log
